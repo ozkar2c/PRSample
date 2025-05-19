@@ -1,2 +1,2 @@
 # PRSample
-Repositorio para testear Pull request y Fork
+Repositorio para testear Pull Request y Fork
